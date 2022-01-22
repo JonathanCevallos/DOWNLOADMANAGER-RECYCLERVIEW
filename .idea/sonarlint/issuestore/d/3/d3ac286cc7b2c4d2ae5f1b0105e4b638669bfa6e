@@ -1,0 +1,20 @@
+
+e
+java:S1874i"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ
+o	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù›ÕŠÿÿÿÿÿ8ï­÷úç/
+a
+java:S1874|"?Remove this use of "setVisibleInDownloadsUi"; it is deprecated.(øô„òøÿÿÿÿ8ò­÷úç/
+`
+java:S1874~"CRemove this use of "allowScanningByMediaScanner"; it is deprecated.(ˆƒ½‘8ó­÷úç/
+E
+java:S1066Z"/Merge this if statement with the enclosing one.(ÒÁÍ
+E
+java:S1066b"/Merge this if statement with the enclosing one.(å‘
+7
+java:S1643o"Use a StringBuilder instead.(ÆÂİËûÿÿÿÿ
+7
+java:S1643q"Use a StringBuilder instead.(´Ï‘øÿÿÿÿ
+u
+java:S1104+"XMake mainActivity a static final constant or non-public and provide accessors if needed.(Õ¢Ø–8¼àñç/
+O
+java:S1444+"2Make this "public static mainActivity" field final(Õ¢Ø–8¿àñç/
